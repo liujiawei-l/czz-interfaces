@@ -1,6 +1,5 @@
 package com.classzz.czzinterfaces.services;
 
-
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
 import com.classzz.czzinterfaces.dtos.node.MiningInfoDto;
